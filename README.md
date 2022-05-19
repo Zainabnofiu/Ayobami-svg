@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayobami-svg
+- 👋 Hi, I’m @zainabnofiu-svg
 - 👀 I’m interested in .HTML, CSS, JavaScript, Vanilla JavaScript, React and BootStrap..
 - 🌱 I’m currently learning .HTML..
 - 💞️ I’m looking to collaborate on frontend projects ...
